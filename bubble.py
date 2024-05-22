@@ -3,10 +3,8 @@ c = 0
 start = time.time()
 array = [4,6,32,123,44,45]
 
-def swap(a: int, b: int):         #funcion que intercambia valores
+def swap(a: int, b: int):         
     return b,a   
-
-#print (array)
 
 for i in range(0, len(array)-1):
     for j in range(i + 1, len(array)):
@@ -16,7 +14,6 @@ for i in range(0, len(array)-1):
 
 
 end = time.time()
-#print (array)
 print (start)
 print (end)
 print (f"{(end - start) * 1000}ms")
