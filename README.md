@@ -21,3 +21,30 @@ Notamos una diferencia en la rapidez en la que se ejecuta el programa y con su e
 
 # Explicacion de el codigo
 
+![imagen](./imagenes/code.png)
+- importamos el Time
+ se inicializa C en 0 para contar las veces que los numeros son comparados durante el proceso de ordenamiento.
+ inicia el tiempo de proceso.
+ con la variable array establecimos numeros aleatorios para luego ordenarlos
+
+![imagen1](./imagenes/code%20swap.png)
+- creamos la funcion Swap para intercambiar numeros de posicion
+
+![imagen2](./imagenes/code%20bubble.png)
+- creamos un for donde el minimo sea 0 y el limite el ultimo numero de el array.
+- dentro creamos otro for donde el minimo sea la i de el anterior for y su maximo la lista.
+- dentro de el for se suma uno al contador de c.
+- dentro de el for se hace un if que verifica que la lista en i sea mayor a la lista en j.
+- dentro de el if se intercambian los numeros con la funcion swap
+ esto se repite una y otra vez hasta que los numeros esten ordenados de menor a mayor
+
+![imagen3](./imagenes/code%20final.png)
+- se detiene el tiempo 
+- printeoss
+
+# Respuestas
+- El algoritmo bubble se destaca por ser eficaz en procesos de ordenamientos en listas mas reducidas debido a su poco codeo. en cambio el algoritmo quicksort ordena listas mayores de manera mas eficaz utilizando mas lineas de codigo.
+
+- El algoritmo quicksort tiene de ventaja su menor tiempo de ejecucion y de comparaciones pero mayor codeo.
+
+- El algortitmo de bubble tiene de ventaja su menor codeo pero el numero de comparaciones es mucho mayor a el algoritmo quicksort y evidente mayor tiempo de ejecucion. 
