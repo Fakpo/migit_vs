@@ -1,6 +1,7 @@
 # INTEGRANTES :
 - Facundo Maidana
 - Valentino Mendive
+- Gianlucca Iacona
 
 ## Python
 ![Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/100px-Python-logo-notext.svg.png)
@@ -12,7 +13,7 @@ esta termina cuando los valores mas bajos y los mas altos no sean mas altos o ma
 
 ## 2. ¿Se les ocurre alguna forma de implementar el algoritmo sin utilizar recursión?
 
-Se nos ocurre ordenarlo con el metodo Bubble ya que esta tambien podria ordenar una lista de este tipo
+Se nos ocurre ordenarlo con el metodo Bubble ya que esta tambien podria ordenar una lista de este tipo.
 
 
 ## 3.¿Notan diferencias en cuanto a performance? ¿Cuáles?
